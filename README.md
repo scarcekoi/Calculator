@@ -39,7 +39,7 @@ A sleek, interactive **Calculator App** built with **Python** using the **Custom
 
 **Interactive UI** that updates instantly with user input.
 
-![Calculator App Screenshot](assets/calculator_screenshot.png)
+![Calculator App Screenshot](assets/calc_scrnsht1.png)
 
 ---
 
