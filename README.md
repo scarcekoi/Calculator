@@ -1,19 +1,13 @@
-# 🧮 **Advanced Calculator App**
+<h3 align="center">
+	Calculator
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
 
-A sleek, interactive **Calculator App** built with **Python** using the **CustomTkinter** library. This app supports a variety of mathematical operations with **real-time results** and **dynamic input fields**. With automatic formatting, **commas for large numbers**, and the ability to remove trailing zeros for decimal numbers, this app is both powerful and user-friendly!
-
----
-
-## 📐 **Features**:
-- **Real-Time Calculation**: Instant results as you type, no need to click a "Calculate" button!
-- **Dynamic Input Fields**: Only the relevant input fields are shown based on the selected calculation type.
-- **Flexible Result Formatting**: 
-  - **Commas** for large numbers (e.g., `1,000,000`).
-  - **Precision** of up to **10 decimal places**, with automatic removal of unnecessary trailing zeros (e.g., `4.0` becomes `4` and `3.1400000000` becomes `3.14`).
-- **Large Number Scales**: Displays the scale of large numbers like **Million**, **Billion**, **Trillion**, and up to **Quattuordecillion**.
-- **Decimal Scales**: Displays the decimal scale such as **Tenth**, **Hundredth**, **Thousandth**, and so on.
-- **Error Handling**: Clear error messages for invalid input or mathematical errors (e.g., **Division by Zero**).
-- **Interactive UI**: Built using **CustomTkinter**, providing a visually appealing interface.
+<p align="center">
+	<a href="https://github.com/scarcekoi/Calculator/stargazers"><img src="https://img.shields.io/github/stars/scarcekoi/Calculator?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
+	<a href="https://github.com/scarcekoi/Calculator/issues"><img src="https://img.shields.io/github/issues/scarcekoi/Calculator?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
+	<a href="https://github.com/scarcekoi/Calculator/contributors"><img src="https://img.shields.io/github/contributors/scarcekoi/Calculator?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
+</p>
 
 ---
 
@@ -76,25 +70,6 @@ cd Calculator
 python main.py
 ```
 
-## 🔧 **Customization**:
-
-If you want to modify the app, such as adding new features or changing the design, open the `main.py` file in your preferred text editor (e.g., VSCode, Sublime Text, PyCharm).
-
-You can easily add more mathematical operations by adding new calculation functions and adding them to the dropdown menu.
-
----
-
-## 📝 **Contributing**:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Commit your changes.
-5. Push to the branch.
-6. Create a new Pull Request.
-
----
-
-## 📄 **License**:
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<p align="center">
+	<a href="https://github.com/scarcekoi/Calculator/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+</p>
